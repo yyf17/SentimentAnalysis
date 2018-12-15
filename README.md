@@ -11,3 +11,6 @@
   - [IJCAI](https://www.ijcai.org/)
   - [NAACL](http://naacl.org/)
   - [NIPS](https://nips.cc/)
+  - [InterSpeech](https://dblp.uni-trier.de/db/conf/interspeech/)
+  - [ICMR](https://dblp.uni-trier.de/db/conf/mir/)
+  - [ICASSP](https://dblp.uni-trier.de/db/conf/icassp/)
