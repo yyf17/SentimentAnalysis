@@ -15,12 +15,12 @@
   - [ICMR](https://dblp.uni-trier.de/db/conf/mir/)
   - [ICASSP](https://dblp.uni-trier.de/db/conf/icassp/)
 # 会议查询工具
-【1】http://www.guide2research.com/topconf/
-【2】https://aideadlin.es/?sub=NLP,ML,SP,CV
-【3】https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html
+  - 【1】http://www.guide2research.com/topconf/
+  - 【2】https://aideadlin.es/?sub=NLP,ML,SP,CV
+  - 【3】https://jackietseng.github.io/conference_call_for_paper/2018-2019-conferences-with-ccf.html
 # Latex 表格工具
-【overleaf】https://www.overleaf.com/
-【1】https://www.latex-tables.com/
-【2】https://www.tablesgenerator.com/
-【3】https://truben.no/table/
-【4】http://www.wiris.com/editor/demo/en/developers
+  -【overleaf】https://www.overleaf.com/
+  -【1】https://www.latex-tables.com/
+  -【2】https://www.tablesgenerator.com/
+  -【3】https://truben.no/table/
+  -【4】http://www.wiris.com/editor/demo/en/developers
