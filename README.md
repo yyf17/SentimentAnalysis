@@ -25,3 +25,8 @@
   - 【2】https://www.tablesgenerator.com/
   - 【3】https://truben.no/table/
   - 【4】http://www.wiris.com/editor/demo/en/developers
+# 数据集
+  - [AMIGOSdataset](http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/index.html)
+  - [MOSEI](http://immortal.multicomp.cs.cmu.edu/raw_datasets/)
+  - [Flickr video dataset](https://projects.csail.mit.edu/soundnet/)
+  
