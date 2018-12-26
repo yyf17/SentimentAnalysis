@@ -30,4 +30,5 @@
   - [MOSEI](http://immortal.multicomp.cs.cmu.edu/raw_datasets/)
   - [Flickr video dataset](https://projects.csail.mit.edu/soundnet/)
   - [multimodal-datahub](https://github.com/yyf17/multimodal-datahub)
+  - [MELD](https://github.com/yyf17/MELD)
   
