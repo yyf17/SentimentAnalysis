@@ -29,4 +29,5 @@
   - [AMIGOSdataset](http://www.eecs.qmul.ac.uk/mmv/datasets/amigos/index.html)
   - [MOSEI](http://immortal.multicomp.cs.cmu.edu/raw_datasets/)
   - [Flickr video dataset](https://projects.csail.mit.edu/soundnet/)
+  - [multimodal-datahub](https://github.com/yyf17/multimodal-datahub)
   
