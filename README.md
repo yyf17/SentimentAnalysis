@@ -31,4 +31,12 @@
   - [Flickr video dataset](https://projects.csail.mit.edu/soundnet/)
   - [multimodal-datahub](https://github.com/yyf17/multimodal-datahub)
   - [MELD](https://github.com/yyf17/MELD)
+# 杂
+  - [Understanding emotions — from Keras to pyTorch](https://medium.com/huggingface/understanding-emotions-from-keras-to-pytorch-3ccb61d5a983)
+  - [Extract information from your text](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+  - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor#speech-recognition)
+  - [貌离神合的RNN与ODE](https://www.jiqizhixin.com/articles/2018-06-29-3)
+  - [ConX Neural Networks](https://conx.readthedocs.io/en/latest/README.html)
+# 比赛
+ - [细粒度用户评论情感分析](https://challenger.ai/competition/fsauor2018?type=myteam)
   
