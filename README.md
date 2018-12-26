@@ -37,6 +37,7 @@
   - [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor#speech-recognition)
   - [貌离神合的RNN与ODE](https://www.jiqizhixin.com/articles/2018-06-29-3)
   - [ConX Neural Networks](https://conx.readthedocs.io/en/latest/README.html)
+  - [festvox](http://festvox.org/)
 # 比赛
  - [细粒度用户评论情感分析](https://challenger.ai/competition/fsauor2018?type=myteam)
   
