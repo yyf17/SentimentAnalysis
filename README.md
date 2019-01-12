@@ -44,3 +44,4 @@
  - [细粒度用户评论情感分析](https://challenger.ai/competition/fsauor2018?type=myteam)
 # Unsupervised Learning
  - [Unsupervised Learning](https://github.com/aleju/papers/edit/master/neural-nets/Deep_Clustering_for_Unsupervised_Learning_of_Visual_Features.md)
+ - [AudioSet数据集介绍](https://zhuanlan.zhihu.com/p/38575723)
