@@ -12,6 +12,7 @@
   - [NLP突破性成果 BERT 模型详细解读](https://zhuanlan.zhihu.com/p/46997268)
   - [论文解读:BERT模型及fine-tuning](https://zhuanlan.zhihu.com/p/46833276)
   - [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+  - [How NLP Cracked Transfer Learning](http://jalammar.github.io/illustrated-bert/)
 # bert 第三方代码：
 
 - [1) pytorch-pretrained-BERT: ](https://github.com/huggingface/pytorch-pretrained-BERT)
