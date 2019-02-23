@@ -9,8 +9,9 @@
   - [预训练在自然语言处理的发展](https://mp.weixin.qq.com/s/LGJvvhotSg7XMn8mg3TZUw)
   - [Google BERT详解](https://zhuanlan.zhihu.com/p/46652512)
   - [谷歌BERT模型深度解析](https://blog.csdn.net/qq_39521554/article/details/83062188)
-  - []()
-  - []()
+  - [NLP突破性成果 BERT 模型详细解读](https://zhuanlan.zhihu.com/p/46997268)
+  - [论文解读:BERT模型及fine-tuning](https://zhuanlan.zhihu.com/p/46833276)
+  - [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 # bert 第三方代码：
 
 - [1) pytorch-pretrained-BERT: ](https://github.com/huggingface/pytorch-pretrained-BERT)
