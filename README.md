@@ -1,5 +1,48 @@
 # BERT for sentiment analysis
   - [use a pre-trained BERT model by fine-tuning the same on downstream specific tasks such as sentiment classification, intent detection, question answering and more.](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)
+# bert Google官方
+  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+  - [code](https://github.com/google-research/bert)
+  - [blog](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
+# bert 第三方解读
+  - [从Word Embedding到Bert模型](https://zhuanlan.zhihu.com/p/49271699)
+  - [预训练在自然语言处理的发展](https://mp.weixin.qq.com/s/LGJvvhotSg7XMn8mg3TZUw)
+  - [Google BERT详解](https://zhuanlan.zhihu.com/p/46652512)
+  - [谷歌BERT模型深度解析](https://blog.csdn.net/qq_39521554/article/details/83062188)
+  - []()
+  - []()
+# bert 第三方代码：
+
+- [1) pytorch-pretrained-BERT: ](https://github.com/huggingface/pytorch-pretrained-BERT)
+Google官方推荐的PyTorch BERB版本实现，可加载Google预训练的模型：PyTorch version of Google AI's BERT model with script to load Google's pre-trained models
+
+- [2) BERT-pytorch: ](https://github.com/codertimo/BERT-pytorch)
+另一个Pytorch版本实现：Google AI 2018 BERT pytorch implementation
+
+- [3) BERT-tensorflow: ](https://github.com/guotong1988/BERT-tensorflow)
+Tensorflow版本：BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+- [4) bert-chainer: ](https://github.com/soskek/bert-chainer)
+Chanier版本: Chainer implementation of "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+
+- [5) bert-as-service: ](https://github.com/hanxiao/bert-as-service)
+将不同长度的句子用BERT预训练模型编码，映射到一个固定长度的向量上：Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model
+这个很有意思，在这个基础上稍进一步是否可以做一个句子相似度计算服务？有没有同学一试？
+
+- [6) bert_language_understanding: ](https://github.com/brightmart/bert_language_understanding)
+BERT实战：Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN
+
+- [7) sentiment_analysis_fine_grain: ](https://github.com/brightmart/sentiment_analysis_fine_grain)
+BERT实战，多标签文本分类，在 AI Challenger 2018 细粒度情感分析任务上的尝试：Multi-label Classification with BERT; Fine Grained Sentiment Analysis from AI challenger
+
+- [8) BERT-NER: ](https://github.com/kyzhouhzau/BERT-NER)
+BERT实战，命名实体识别: Use google BERT to do CoNLL-2003 NER !
+
+- [9) BERT-keras: ](https://github.com/Separius/BERT-keras)
+Keras版: Keras implementation of BERT with pre-trained weights
+
+- [10) tbert: ](https://github.com/innodatalabs/tbert)
+PyTorch port of BERT ML model
 # 投稿网站
   - [CVPR2019](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent)
 # SentimentAnalysis
