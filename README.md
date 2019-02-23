@@ -44,6 +44,7 @@ Keras版: Keras implementation of BERT with pre-trained weights
 
 - [10) tbert: ](https://github.com/innodatalabs/tbert)
 PyTorch port of BERT ML model
+-[11) Bert for Multi-task Learning](https://github.com/JayYip/bert-multitask-learning)
 # 投稿网站
   - [CVPR2019](https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent)
 # SentimentAnalysis
