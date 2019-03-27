@@ -1,3 +1,5 @@
+# CMU 大牛
+  - [pliang](http://www.cs.cmu.edu/~pliang/)
 # BERT for sentiment analysis
   - [use a pre-trained BERT model by fine-tuning the same on downstream specific tasks such as sentiment classification, intent detection, question answering and more.](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)
 # bert Google官方
