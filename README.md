@@ -1,5 +1,24 @@
+# PIL generate gif
+
+face_dir = "/data/disk1/sharing/yuyinfeng/IEMOCAP_full_release/preprocess/Faces/"
+
+import os
+
+from PIL import Image
+
+frames = []
+
+for f in os.listdir(face_dir)[:10]:
+
+    img = Image.open(face_dir+f)
+    
+    frames.append(img)
+    
+frames[0].save('face.gif',format='GIF',append_images=frames[1:],save_all= True,duration=100,loop=0)
+
 # setUp tensorflow 12
 pip install tensorflow-gpu==1.12.0 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+
 pip install keras
 # CMU 大牛
   - [pliang](http://www.cs.cmu.edu/~pliang/)
