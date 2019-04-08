@@ -1,5 +1,6 @@
 # setUp tensorflow 12
-pip install tensorflow==1.12.0 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install tensorflow-gpu==1.12.0 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install keras
 # CMU 大牛
   - [pliang](http://www.cs.cmu.edu/~pliang/)
 # BERT for sentiment analysis
